@@ -1,0 +1,34 @@
+h1{
+    color:midnightblue;
+    background-color: lightskyblue ;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color:hsla(hue, saturation, lightness, alpha)));
+    padding: 50px;
+    border-image: 50px;
+    border-color: black;
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divClass{
+    color:navy;
+    font-style: italic;
+    font-variant-position: ;
+}
+
+#spanid{
+    font-size: 30px;
+    margin: 50px
+    ;
+}
+
+body{
+    background-image: url(../../../rodeo\ sj\ 2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    backface-visibility: inherit;
+}
